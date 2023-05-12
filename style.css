@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url('https://picsum.photos/1920/1080');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
+}
+
+form .form-control {
+    width: 100%;
+    margin-bottom: 10px;
+}
